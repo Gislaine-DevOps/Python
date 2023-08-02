@@ -1,0 +1,114 @@
+00:00:00.000455 main     VirtualBox COM Server 6.1.16 r140961 win.amd64 (Oct 16 2020 16:33:17) release log
+00:00:00.000457 main     Log opened 2020-12-11T04:34:05.772363600Z
+00:00:00.000458 main     Build Type: release
+00:00:00.000460 main     OS Product: Windows 10
+00:00:00.000461 main     OS Release: 10.0.18363
+00:00:00.000462 main     OS Service Pack: 
+00:00:00.069883 main     DMI Product Name: 81YK
+00:00:00.084372 main     DMI Product Version: IdeaPad 5 15IIL05
+00:00:00.084382 main     Firmware type: UEFI
+00:00:00.084821 main     Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.084855 main     Host RAM: 12063MB (11.7GB) total, 6913MB (6.7GB) available
+00:00:00.084859 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.084859 main     Process ID: 10432
+00:00:00.084860 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.237310          VirtualBox: object creation starts
+00:00:00.237599          Home directory: 'C:\Users\mgisl\.VirtualBox'
+00:00:00.237696          Installed Drivers:
+00:00:00.246840            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 6.1.16.40961)
+00:00:00.247096            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.16.40961)
+00:00:00.247441            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.16.40961)
+00:00:00.247647            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.16.40961)
+00:00:00.247906          Loading settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.250517          usbLibGetDevices: Starting USB device enumeration
+00:00:00.307432          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&b0eb0c1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.307566          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&b0eb0c1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.307705          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&b0eb0c1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.310257          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.310342          USB: Unknown USB device detected (idVendor: 0x04f3, idProduct: 0x0c58)
+00:00:00.310408          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56ff)
+00:00:00.310434          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.354693          HostDnsMonitor: initializing
+00:00:00.361971          HostDnsMonitor: updating information
+00:00:00.361994          HostDnsMonitor: old information
+00:00:00.361995            no server entries
+00:00:00.361996            no domain set
+00:00:00.361996            no search string entries
+00:00:00.361996          HostDnsMonitor: new information
+00:00:00.361997            server 1: 192.168.1.254
+00:00:00.361997            domain: attlocal.net
+00:00:00.361998            no search string entries
+00:00:00.404068          VD: VDInit finished with VINF_SUCCESS
+00:00:00.405240          VirtualBox: object created
+00:01:23.561474 createBase Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:24.105102          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:01:24.114593          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:01:24.116225          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:24.121964          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:24.125033          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:01:28.094400          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:28.097359          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:28.100240          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:28.102953          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:28.105608          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:15.055939          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE'}, preserve=false aResultDetail=0
+00:03:15.058782          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:03:15.080340          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:03:36.985224          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:03:53.833911          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:03:58.031634          Launched VM: 70738560 pid: 7056 (0x1b90) frontend: GUI/Qt name: Centos8 Project
+00:04:02.434508          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:04:02.702827          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:04:32.169775          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:05:03.699702          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:05:03.735095          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:05:04.250091          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:05:04.287092          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:15:44.180952 dns-monitor HostDnsMonitor: updating information
+00:15:44.180967 dns-monitor HostDnsMonitor: unchanged
+00:16:33.366258 dns-monitor HostDnsMonitor: updating information
+00:16:33.366285 dns-monitor HostDnsMonitor: unchanged
+00:17:59.217672 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:17:59.240435 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&b0eb0c1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:17:59.240531 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&b0eb0c1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:17:59.240759 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:20:12.950485 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:20:12.978538 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&b0eb0c1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:20:12.978602 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&b0eb0c1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:20:12.978683 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&b0eb0c1&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:20:12.978905 USBPROXY usbLibGetDevices: Found 3 USB devices, 0 captured
+00:21:29.748975 dns-monitor HostDnsMonitor: updating information
+00:21:29.749015 dns-monitor HostDnsMonitor: unchanged
+00:39:07.582861 dns-monitor HostDnsMonitor: updating information
+00:39:07.582912 dns-monitor HostDnsMonitor: unchanged
+00:57:44.400121          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:58:29.878133 createBase Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:58:30.419907          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:58:30.424865          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:58:30.428518          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:58:30.434138          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:58:30.439174          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:58:58.110912          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'IDE'}, preserve=false aResultDetail=0
+00:58:58.148034          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:59:19.731566          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+00:59:25.230835          Launched VM: 70833280 pid: 1888 (0x760) frontend: GUI/Qt name: Centos8 Project
+00:59:29.637020          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:59:29.937107          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:59:40.228988          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+01:03:26.678465          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+01:03:26.714570          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+01:03:27.322565          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+01:03:27.345412          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+01:03:30.202166          Launched VM: 70738224 pid: 9432 (0x24d8) frontend: GUI/Qt name: Centos8 Project
+01:03:34.427482          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+01:03:34.663455          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+01:25:09.331130          Saving settings file "C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vbox" with version "1.16-windows"
+01:25:13.005790          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:25:13.008754          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:25:13.011187          Saving settings file "C:\Users\mgisl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+01:25:18.554402 main     VirtualBox: object deletion starts
+01:25:18.560215 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\mgisl\VirtualBox VMs\Centos8 Project\Centos8 Project.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+01:25:18.563661 main     HostDnsMonitor: shutting down ...
+01:25:18.563938 main     HostDnsMonitor: shut down
+01:25:18.570809 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+01:25:18.571258 main     VirtualBox: object deleted

@@ -1,0 +1,22 @@
+[I 2022-05-27 22:39:06.116 ServerApp] jupyterlab | extension was successfully linked.
+[I 2022-05-27 22:39:06.597 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-05-27 22:39:06.661 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-05-27 22:39:06.662 LabApp] JupyterLab extension loaded from C:\Users\mgisl\anaconda3\lib\site-packages\jupyterlab
+[I 2022-05-27 22:39:06.662 LabApp] JupyterLab application directory is C:\Users\mgisl\anaconda3\share\jupyter\lab
+[I 2022-05-27 22:39:06.667 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-05-27 22:39:06.669 ServerApp] The port 8888 is already in use, trying another port.
+[I 2022-05-27 22:39:06.672 ServerApp] The port 8889 is already in use, trying another port.
+[I 2022-05-27 22:39:06.673 ServerApp] The port 8890 is already in use, trying another port.
+[I 2022-05-27 22:39:06.674 ServerApp] Serving notebooks from local directory: C:\Users\mgisl
+[I 2022-05-27 22:39:06.674 ServerApp] Jupyter Server 1.13.5 is running at:
+[I 2022-05-27 22:39:06.674 ServerApp] http://localhost:8891/lab?token=1d4b420529063915a16aac8ecb2a25d0932f82a7748a8767
+[I 2022-05-27 22:39:06.674 ServerApp]  or http://127.0.0.1:8891/lab?token=1d4b420529063915a16aac8ecb2a25d0932f82a7748a8767
+[I 2022-05-27 22:39:06.674 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2022-05-27 22:39:06.723 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///C:/Users/mgisl/AppData/Roaming/jupyter/runtime/jpserver-81464-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8891/lab?token=1d4b420529063915a16aac8ecb2a25d0932f82a7748a8767
+     or http://127.0.0.1:8891/lab?token=1d4b420529063915a16aac8ecb2a25d0932f82a7748a8767
+[W 2022-05-27 22:39:10.497 LabApp] Could not determine jupyterlab build status without nodejs

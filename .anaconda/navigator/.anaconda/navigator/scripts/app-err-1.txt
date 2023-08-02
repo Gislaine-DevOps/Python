@@ -1,0 +1,19 @@
+[I 2022-05-27 22:41:30.534 LabApp] JupyterLab extension loaded from C:\Users\mgisl\anaconda3\lib\site-packages\jupyterlab
+[I 2022-05-27 22:41:30.534 LabApp] JupyterLab application directory is C:\Users\mgisl\anaconda3\share\jupyter\lab
+[I 22:41:30.539 NotebookApp] The port 8888 is already in use, trying another port.
+[I 22:41:30.540 NotebookApp] The port 8889 is already in use, trying another port.
+[I 22:41:30.540 NotebookApp] The port 8890 is already in use, trying another port.
+[I 22:41:30.541 NotebookApp] The port 8891 is already in use, trying another port.
+[I 22:41:30.541 NotebookApp] The port 8892 is already in use, trying another port.
+[I 22:41:30.543 NotebookApp] Serving notebooks from local directory: C:\Users\mgisl
+[I 22:41:30.543 NotebookApp] Jupyter Notebook 6.4.11 is running at:
+[I 22:41:30.543 NotebookApp] http://localhost:8858/?token=696d84d900421edbac05566729b9c5623bd3da333e22a22c
+[I 22:41:30.543 NotebookApp]  or http://127.0.0.1:8858/?token=696d84d900421edbac05566729b9c5623bd3da333e22a22c
+[I 22:41:30.543 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 22:41:30.583 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///C:/Users/mgisl/AppData/Roaming/jupyter/runtime/nbserver-78300-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8858/?token=696d84d900421edbac05566729b9c5623bd3da333e22a22c
+     or http://127.0.0.1:8858/?token=696d84d900421edbac05566729b9c5623bd3da333e22a22c

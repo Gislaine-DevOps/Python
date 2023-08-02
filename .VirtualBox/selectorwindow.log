@@ -1,0 +1,26 @@
+00:00:00.960103 VirtualBox GUI VM Selector Window 6.1.16 r140961 win.amd64 (Oct 16 2020 16:33:17) release log
+00:00:00.960105 Log opened 2020-12-15T23:11:35.926129900Z
+00:00:00.960106 Build Type: release
+00:00:00.960108 OS Product: Windows 10
+00:00:00.960109 OS Release: 10.0.18363
+00:00:00.960109 OS Service Pack: 
+00:00:00.977470 DMI Product Name: 81YK
+00:00:00.980920 DMI Product Version: IdeaPad 5 15IIL05
+00:00:00.980951 Firmware type: UEFI
+00:00:00.981164 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.981179 Host RAM: 12063MB (11.7GB) total, 6549MB (6.3GB) available
+00:00:00.981182 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.981183 Process ID: 10916
+00:00:00.981183 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.981300 Qt version: 5.6.2
+00:00:00.987425 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.987521 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:50.252746 GUI: UIMediumEnumerator: Medium with key={{a34c7e00-2d80-43b7-a029-7f5a20daa739}} created
+00:00:50.312475 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:05.922789 GUI: UIMediumEnumerator: Medium with key={{e92f303a-9518-4b06-ae93-275db111e3ea}} created
+00:01:05.941533 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:14.776341 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:14.784533 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:32.665675 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:44.177531 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:44.812681 GUI: UIMediumEnumerator: Medium-enumeration finished!
