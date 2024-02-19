@@ -1,3 +1,3 @@
 # Python
-Hello those are Python projects that i have worked on
-Feel free to take a look at them
+Hello, those are some Python Projects that I have worked on.
+Feel free to take a look at them.
