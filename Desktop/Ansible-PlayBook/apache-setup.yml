@@ -1,0 +1,24 @@
+# Write a playbook to deploy apache on ec2
+- name: deploy apache to ec2 amz
+  hosts: amazon-clients
+  tasks:
+    - name: Update packages on the system
+      ansible.builtin.yum: # name of the module that we intend to use
+        name: '*'
+        state: latest # update the package to the latest version
+    - name: Install Apache
+      ansible.builtin.yum:
+       name: httpd
+       state: present
+    - name: Start service httpd, if not started
+      ansible.builtin.service: # service module
+        name: httpd
+        state: started
+    - name: start service when the system boots
+      ansible.builtin.service:
+        name: httpd
+        enabled: true 
+    - name: Copy index.html file
+      ansible.builtin.copy:
+        src: /root/index.html # Controller
+        dest: /var/www/html # clients
