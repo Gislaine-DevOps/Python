@@ -1,0 +1,35 @@
+# Write a playbook to deploy apache on ec2 and install git
+- name: deploy apache to ubuntu
+  hosts: ubuntu-clients
+  tasks:
+    - name: Update packages on the ubuntu system
+      ansible.builtin.apt: 
+        name: '*'
+        state: latest
+    - name: Install apache httpd
+      ansible.builtin.apt:
+        name: apache2
+        state: present
+    - name: Start service httpd
+      service: # service module
+        name: apache2
+        state: started
+    - name: start service when the system boots
+      service:
+        name: apache2
+        enabled: true 
+    - name: Copy index.html file
+      ansible.builtin.copy:
+        src: /root/index.html 
+        dest: /var/www/html 
+
+- name: Install git on the ubuntu clients
+  hosts: ubuntu-clients
+  tasks:
+    - name: Install Git
+      apt:
+        name: git
+        state: present
+
+
+  
